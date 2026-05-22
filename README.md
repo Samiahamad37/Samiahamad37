@@ -4,7 +4,7 @@ Hi, I'm SAMIA ADAM HAMAD.
 
 I'm a passionate full-stack developer and UI designer who loves building interactive and scalable web systems and mobile applications. I enjoy transforming ideas into real-world solutions.
 
----
+[![Committers Top](https://user-badge.committers.top/tanzania/Barakael.svg)](https://committers.top/tanzania.html)
 
 Technologies & Tools
 
