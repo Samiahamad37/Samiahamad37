@@ -4,6 +4,14 @@
 
 Hi, I'm **SAMIA ADAM HAMAD** 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Web+Development;Mobile+Application+Development;REST+API+Development;Database+Design;Data+Pipelines+and+Analytics;Docker+and+Containerization;Cloud+Computing)](https://git.io/typing-svg)
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,ts,js,python,docker,mysql,postgres,git,github,linux,tailwind" />
+</p>
+
 I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I love transforming innovative ideas into real-world solutions that make an impact.
 - <img src="https://cdn.simpleicons.org/django" width="20" /> **Focus:** Backend development, APIs, and scalable systems
 - <img src="https://cdn.simpleicons.org/docker" width="20" /> **Architecture:** Building secure and maintainable applications
