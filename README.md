@@ -13,7 +13,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 
 [![Committers Top](https://user-badge.committers.top/tanzania/Samiahamad37.svg)](https://committers.top/tanzania.html)
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +39,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -49,7 +49,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samiahamad37&theme=radical)
 
----
+
 
 ## 🚀 Featured Projects
 
