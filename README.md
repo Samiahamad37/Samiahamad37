@@ -2,14 +2,14 @@
 
 ## About Me
 
-Hi, I'm **SAMIA ADAM HAMAD** 🚀
+Hi, I'm **SAMIA ADAM HAMAD** 
 
 I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I love transforming innovative ideas into real-world solutions that make an impact.
-
-- 🎯 **Focus:** Full-stack development, UI/UX design, and scalable architecture
-- 💡 **Passion:** Creating elegant solutions to complex problems
-- 🌱 **Learning:** Always exploring new technologies and best practices
-- 📍 **Location:** Tanzania
+- <img src="https://cdn.simpleicons.org/django" width="20" /> **Focus:** Backend development, APIs, and scalable systems
+- <img src="https://cdn.simpleicons.org/docker" width="20" /> **Architecture:** Building secure and maintainable applications
+- <img src="https://cdn.simpleicons.org/github" width="20" /> **Passion:** Creating elegant solutions to complex problems
+- <img src="https://cdn.simpleicons.org/git" width="20" /> **Learning:** Always exploring new technologies and best practices
+- <img src="https://cdn.simpleicons.org/googlemaps" width="20" /> **Location:** Tanzania
 
 [![Committers Top](https://user-badge.committers.top/tanzania/Samiahamad37.svg)](https://committers.top/tanzania.html)
 
@@ -23,6 +23,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
