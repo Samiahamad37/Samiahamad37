@@ -63,7 +63,6 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 
 > Coming soon! Check out my repositories for a full portfolio of my work.
 
----
 
 ## 💼 What I'm Currently Working On
 
@@ -71,7 +70,6 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 - 🎨 Designing intuitive user interfaces
 - 📚 Sharing knowledge with the developer community
 
----
 
 ## 🤝 Let's Connect
 
@@ -82,7 +80,6 @@ I'm always interested in collaborating on exciting projects or discussing web de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samia-hamad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samiahamad37)
 
----
 
 ## 👁️ Visitor Count
 
