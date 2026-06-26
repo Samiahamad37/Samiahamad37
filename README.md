@@ -87,4 +87,4 @@ I'm always interested in collaborating on exciting projects or discussing web de
 
 ---
 
-*Last Updated: 2026* | *Keep building, keep learning! 🚀*
+*Last Updated: 2026* | *Keep building, keep learning! *
