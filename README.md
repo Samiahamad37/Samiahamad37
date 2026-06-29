@@ -9,7 +9,7 @@ Hi, I'm **SAMIA ADAM HAMAD**
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,influxdb" />
+  <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,influxdb,go" />
 </p>
 
 I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I love transforming innovative ideas into real-world solutions that make an impact.
@@ -37,6 +37,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
