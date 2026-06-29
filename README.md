@@ -9,7 +9,7 @@ Hi, I'm **SAMIA ADAM HAMAD**
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,influxdb,go" />
+  <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,go" />
 </p>
 
 I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I love transforming innovative ideas into real-world solutions that make an impact.
