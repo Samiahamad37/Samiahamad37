@@ -53,7 +53,7 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 ## 📊 GitHub Statistics
 
 ![Samia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samiahamad37&show_icons=true&theme=radical)
-
+![Samia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samiahamad37&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiahamad37&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samiahamad37&theme=radical)
