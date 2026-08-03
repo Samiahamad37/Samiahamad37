@@ -4,7 +4,7 @@
 
 Hi, I'm **SAMIA ADAM HAMAD** 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Web+Development;Mobile+Applications)](https://my-portfolio-cyan-nine-29.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Web+Development;Mobile+Appl[...]
 
 ### 🛠️ Technologies & Tools
 
@@ -12,7 +12,7 @@ Hi, I'm **SAMIA ADAM HAMAD**
   <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,go" />
 </p>
 
-I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I build reliable backends and delightful user experiences.
+I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple [...]
 - <img src="https://cdn.simpleicons.org/django" width="20" /> **Focus:** Backend development, APIs, and scalable systems
 - <img src="https://cdn.simpleicons.org/docker" width="20" /> **Architecture:** Building secure and maintainable applications
 - <img src="https://cdn.simpleicons.org/github" width="20" /> **Passion:** Creating elegant solutions to complex problems
@@ -62,8 +62,13 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 
 ## 🚀 Featured Projects
 
-- [My Portfolio — Live Site](https://my-portfolio-cyan-nine-29.vercel.app/)  
-  A personal portfolio showcasing my projects, UI designs, and contact information. Deployed on Vercel.
+<p align="center">
+  <a href="https://my-portfolio-cyan-nine-29.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00D1B2?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" />
+  </a>
+</p>
+
+<p align="center">A personal portfolio showcasing my projects, UI designs, and contact information. Deployed on Vercel — <a href="https://my-portfolio-cyan-nine-29.vercel.app/" target="_blank" rel="noopener noreferrer">Open live portfolio</a>.</p>
 
 > Check out the live portfolio for demos, screenshots, and links to source repositories.
 
