@@ -4,7 +4,7 @@
 
 Hi, I'm **SAMIA ADAM HAMAD** 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Web+Development;Mobile+Application+Development;Database+Design;Data+Pipelines+and+Analytics;Docker+and+Containerization;Cloud+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Web+Development;Mobile+Applications)](https://my-portfolio-cyan-nine-29.vercel.app/)
 
 ### 🛠️ Technologies & Tools
 
@@ -12,7 +12,7 @@ Hi, I'm **SAMIA ADAM HAMAD**
   <img src="https://skillicons.dev/icons?i=django,react,ts,js,flutter,python,docker,mysql,postgres,git,github,linux,tailwind,go" />
 </p>
 
-I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I love transforming innovative ideas into real-world solutions that make an impact.
+I'm a passionate **full-stack developer** and **UI designer** based in Tanzania, dedicated to building interactive and scalable web systems and mobile applications. With expertise across multiple technologies, I build reliable backends and delightful user experiences.
 - <img src="https://cdn.simpleicons.org/django" width="20" /> **Focus:** Backend development, APIs, and scalable systems
 - <img src="https://cdn.simpleicons.org/docker" width="20" /> **Architecture:** Building secure and maintainable applications
 - <img src="https://cdn.simpleicons.org/github" width="20" /> **Passion:** Creating elegant solutions to complex problems
@@ -62,7 +62,10 @@ I'm a passionate **full-stack developer** and **UI designer** based in Tanzania,
 
 ## 🚀 Featured Projects
 
-> Coming soon! Check out my repositories for a full portfolio of my work.
+- [My Portfolio — Live Site](https://my-portfolio-cyan-nine-29.vercel.app/)  
+  A personal portfolio showcasing my projects, UI designs, and contact information. Deployed on Vercel.
+
+> Check out the live portfolio for demos, screenshots, and links to source repositories.
 
 
 ## 💼 What I'm Currently Working On
