@@ -7,7 +7,7 @@
 ### 🚀 Building Secure, Scalable & Intelligent Software Solutions
 
 <img src="https://komarev.com/ghpvc/?username=Samiahamad37&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-[![Committers Top](https://user-badge.committers.top/tanzania/Samiahamad37.svg)](https://committers.top/tanzania.html)
+[Committers Top](https://user-badge.committers.top/tanzania/Samiahamad37.svg)](https://committers.top/tanzania.html)
 
 </div>
 
