@@ -68,7 +68,9 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 
 🌐 **Live Website**
 
-https://my-portfolio-cyan-nine-29.vercel.app/
+<a href="https://my-portfolio-cyan-nine-29.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 Modern portfolio showcasing projects, UI designs, and technical skills.
 
