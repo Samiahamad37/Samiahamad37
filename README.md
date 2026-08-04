@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 # 👩‍💻 About Me
 
@@ -27,7 +26,7 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 * ☁️ Cloud-Ready Applications
 * 🎨 Beautiful User Interfaces
 
----
+
 
 # ⚡ Tech Stack
 
@@ -62,37 +61,7 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma"/>
 </p>
 
----
 
-# 🚀 Featured Projects
-
-## 🌾 Smart Agriculture Platform
-
-AI & IoT-powered agriculture management system designed to improve crop productivity, automate irrigation, and provide intelligent insights for farmers.
-
-**Tech Stack**
-
-* Django
-* Flutter
-* PostgreSQL
-* Docker
-* AI Integration
-* IoT
-
----
-
-## 🚦 Smart Traffic Management System
-
-An intelligent traffic monitoring platform using AI to optimize traffic flow, reduce congestion, and enhance urban mobility.
-
-**Tech Stack**
-
-* Django
-* React
-* PostgreSQL
-* AI APIs
-
----
 
 ## 💼 Personal Portfolio
 
@@ -102,7 +71,7 @@ https://my-portfolio-cyan-nine-29.vercel.app/
 
 Modern portfolio showcasing projects, UI designs, and technical skills.
 
----
+
 
 # 📈 GitHub Statistics
 
@@ -120,7 +89,7 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
----
+
 
 # 📊 GitHub Activity
 
@@ -130,7 +99,6 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -140,7 +108,7 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -150,7 +118,6 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
----
 
 # 🎯 2026 Goals
 
@@ -161,13 +128,13 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 * 🤖 Integrate AI into real-world systems
 * 📚 Continue learning and sharing knowledge
 
----
+
 
 # 💡 Favorite Quote
 
 > **"Technology becomes meaningful when it solves real problems."**
 
----
+
 
 # 🤝 Let's Connect
 
@@ -195,7 +162,7 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
----
+
 
 <div align="center">
 
