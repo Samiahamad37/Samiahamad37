@@ -7,7 +7,7 @@
 ### 🚀 Building Secure, Scalable & Intelligent Software Solutions
 
 <img src="https://komarev.com/ghpvc/?username=Samiahamad37&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-[Committers Top](https://user-badge.committers.top/tanzania/Samiahamad37.svg)](https://committers.top/tanzania.html)
+
 
 </div>
 
@@ -89,7 +89,18 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiahamad37&theme=tokyonight&hide_border=true"/>
 
 </p>
+# 📈 GitHub Statistics
 
+<p align="center">
+  <a href="https://committers.top/tanzania.html">
+    <img src="https://user-badge.committers.top/tanzania/Samiahamad37.svg" alt="Committers Top Tanzania"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samiahamad37&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiahamad37&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 # 📊 GitHub Activity
