@@ -8,9 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Samiahamad37&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-
 </div>
-
 
 # 👩‍💻 About Me
 
@@ -26,8 +24,6 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 * 🔐 Secure REST APIs
 * ☁️ Cloud-Ready Applications
 * 🎨 Beautiful User Interfaces
-
-
 
 # ⚡ Tech Stack
 
@@ -62,9 +58,7 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma"/>
 </p>
 
-
-
-## 💼 Personal Portfolio
+# 💼 Personal Portfolio
 
 🌐 **Live Website**
 
@@ -74,58 +68,15 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 
 Modern portfolio showcasing projects, UI designs, and technical skills.
 
-
-
-# 📈 GitHub Statistics
+# 🏆 GitHub Highlights
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samiahamad37&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiahamad37&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiahamad37&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-  <a href="https://committers.top/tanzania.html">
+<a href="https://committers.top/tanzania.html">
     <img src="https://user-badge.committers.top/tanzania/Samiahamad37.svg" alt="Committers Top Tanzania"/>
-  </a>
-</p>
-
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samiahamad37&theme=tokyo-night"/>
+</a>
 
 </p>
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samiahamad37&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/Samiahamad37/Samiahamad37/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
 
 # 🎯 2026 Goals
 
@@ -136,13 +87,9 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 * 🤖 Integrate AI into real-world systems
 * 📚 Continue learning and sharing knowledge
 
-
-
 # 💡 Favorite Quote
 
 > **"Technology becomes meaningful when it solves real problems."**
-
-
 
 # 🤝 Let's Connect
 
@@ -170,8 +117,6 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 
 </p>
 
-
-
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
@@ -183,4 +128,3 @@ Modern portfolio showcasing projects, UI designs, and technical skills.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-
