@@ -6,9 +6,15 @@
 
 ### 🚀 Building Secure, Scalable & Intelligent Software Solutions
 
-<img src="https://komarev.com/ghpvc/?username=Samiahamad37&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+# 🏆 GitHub Highlights
 
-</div>
+<p align="center">
+
+<a href="https://committers.top/tanzania.html">
+    <img src="https://user-badge.committers.top/tanzania/Samiahamad37.svg" alt="Committers Top Tanzania"/>
+</a>
+
+</p>
 
 # 👩‍💻 About Me
 
@@ -68,15 +74,7 @@ I enjoy transforming ideas into scalable digital products by combining clean arc
 
 Modern portfolio showcasing projects, UI designs, and technical skills.
 
-# 🏆 GitHub Highlights
 
-<p align="center">
-
-<a href="https://committers.top/tanzania.html">
-    <img src="https://user-badge.committers.top/tanzania/Samiahamad37.svg" alt="Committers Top Tanzania"/>
-</a>
-
-</p>
 
 # 🎯 2026 Goals
 
